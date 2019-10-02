@@ -15,7 +15,7 @@ hist <- read.csv("bootstrap/data/ICES_nominal_catches/ICES_historical_catches.cs
 official <- read.csv("bootstrap/data/ICES_nominal_catches/ICES_2006_2017_catches.csv")
 prelim <- read.csv("bootstrap/data/ICES_nominal_catches/ICES_preliminary_catches.csv")
 
-catch_dat <- icesFO::format_catches(2019, "Celtic Seas Ecoregion", hist, official, prelim)
+catch_dat <- icesFO::format_catches(2019, "Greater North Sea Ecoregion", hist, official, prelim)
 
 # 2: RDB effort and landings
 
@@ -33,5 +33,8 @@ sag_refpts <- read.csv("bootstrap/data/SAG_data/SAG_refpts.csv")
 sag_status <- read.csv("bootstrap/data/SAG_data/SAG_status.csv")
 
 
-clean_sag <- format_sag(sag_sum, sag_refpts, 2019, "Celtic")
-clean_status <- format_sag_status(sag_status, 2019, "Celtic Seas")
+clean_sag <- format_sag(sag_sum, sag_refpts, 2019, "Greater North Sea")
+clean_status <- format_sag_status(sag_status, 2019, "Greater North Sea")
+
+write.taf(clean_sag, file = "data/clean_sag.csv")
+write.taf(clean_status, file = "data/clean_status.csv")
