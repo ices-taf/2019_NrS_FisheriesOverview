@@ -1,0 +1,691 @@
+type_var,YEAR,typeTotal
+Denmark,1950,177.639
+Denmark,1951,212.628
+Denmark,1952,249.073
+Denmark,1953,275.729
+Denmark,1954,299.808
+Denmark,1955,353.546
+Denmark,1956,400.673
+Denmark,1957,456.538
+Denmark,1958,520.182
+Denmark,1959,595.224
+Denmark,1960,505.34
+Denmark,1961,542.746
+Denmark,1962,691.276
+Denmark,1963,766.844
+Denmark,1964,772.147
+Denmark,1965,749.488
+Denmark,1966,752.305
+Denmark,1967,962.006
+Denmark,1968,1357.167
+Denmark,1969,1177.639
+Denmark,1970,1130.797
+Denmark,1971,1289.167
+Denmark,1972,1325.399
+Denmark,1973,1327.134
+Denmark,1974,1708.572
+Denmark,1975,1631.346
+Denmark,1976,1738.494
+Denmark,1977,1624.653
+Denmark,1978,1560.291
+Denmark,1979,1499.614
+Denmark,1980,1790.707
+Denmark,1981,1629.854
+Denmark,1982,1668.307
+Denmark,1983,1610.337
+Denmark,1984,1595.276
+Denmark,1985,1520.072
+Denmark,1986,1615.186
+Denmark,1987,1459.835
+Denmark,1988,1752.307
+Denmark,1989,1692.344
+Denmark,1990,1321.742
+Denmark,1991,1585.586
+Denmark,1992,1772.284
+Denmark,1993,1344.798
+Denmark,1994,1591.681
+Denmark,1995,1714.204
+Denmark,1996,1259.046
+Denmark,1997,1391.22
+Denmark,1998,1201.136
+Denmark,1999,1096.598
+Denmark,2000,1262.319
+Denmark,2001,1245.897
+Denmark,2002,1233.083
+Denmark,2003,834.449
+Denmark,2004,907.035
+Denmark,2005,740.818
+Denmark,2006,683.86869
+Denmark,2007,480.38876
+Denmark,2008,547.73071
+Denmark,2009,623.6922
+Denmark,2010,660.52469
+Denmark,2011,585.71695
+Denmark,2012,389.82422
+Denmark,2013,553.64136
+Denmark,2014,576.27895
+Denmark,2015,721.44594
+Denmark,2016,514.92301
+Denmark,2017,724.337
+Denmark,2018,528.29459283
+Faroe Islands,1950,0
+Faroe Islands,1951,0
+Faroe Islands,1952,0
+Faroe Islands,1953,0.69
+Faroe Islands,1954,0
+Faroe Islands,1955,0.04
+Faroe Islands,1956,0
+Faroe Islands,1957,0.022
+Faroe Islands,1958,0.026
+Faroe Islands,1959,0.005
+Faroe Islands,1960,0.045
+Faroe Islands,1961,0
+Faroe Islands,1962,0
+Faroe Islands,1963,0
+Faroe Islands,1964,0.973
+Faroe Islands,1965,3.111
+Faroe Islands,1966,1.491
+Faroe Islands,1967,35.993
+Faroe Islands,1968,54.955
+Faroe Islands,1969,63.36
+Faroe Islands,1970,107.742
+Faroe Islands,1971,115.793
+Faroe Islands,1972,117.397
+Faroe Islands,1973,146.422
+Faroe Islands,1974,153.524
+Faroe Islands,1975,170.602
+Faroe Islands,1976,200.09
+Faroe Islands,1977,123.982
+Faroe Islands,1978,67.892
+Faroe Islands,1979,68.985
+Faroe Islands,1980,63.539
+Faroe Islands,1981,30.053
+Faroe Islands,1982,21.833
+Faroe Islands,1983,39.77
+Faroe Islands,1984,31.211
+Faroe Islands,1985,18.569
+Faroe Islands,1986,7.91
+Faroe Islands,1987,27.679
+Faroe Islands,1988,19.751
+Faroe Islands,1989,28.674
+Faroe Islands,1990,17.13
+Faroe Islands,1991,20.828
+Faroe Islands,1992,19.387
+Faroe Islands,1993,18.211
+Faroe Islands,1994,29.85
+Faroe Islands,1995,46.776
+Faroe Islands,1996,18.397
+Faroe Islands,1997,28.339
+Faroe Islands,1998,24.321
+Faroe Islands,1999,21.894
+Faroe Islands,2000,0
+Faroe Islands,2001,15.465
+Faroe Islands,2002,36.622
+Faroe Islands,2003,25.346
+Faroe Islands,2004,25.053
+Faroe Islands,2005,18.385
+Faroe Islands,2006,15.567
+Faroe Islands,2007,20.353
+Faroe Islands,2008,12.099
+Faroe Islands,2009,12.4
+Faroe Islands,2010,18.068
+Faroe Islands,2011,1.024
+Faroe Islands,2012,1.811
+Faroe Islands,2013,0.932
+Faroe Islands,2014,47.349
+Faroe Islands,2015,40.099109
+Faroe Islands,2016,35.257026
+Faroe Islands,2017,21.887722
+Faroe Islands,2018,23.732758
+France,1950,82.05
+France,1951,185.265
+France,1952,79.081
+France,1953,85.88
+France,1954,105.158
+France,1955,110.149
+France,1956,94.21
+France,1957,95.726
+France,1958,90.449
+France,1959,92.567
+France,1960,18.701
+France,1961,98.972
+France,1962,22.774
+France,1963,28.87
+France,1964,109.663
+France,1965,109.684
+France,1966,84.677
+France,1967,78.123
+France,1968,114.128
+France,1969,105.695
+France,1970,109.93
+France,1971,119.855
+France,1972,104.182
+France,1973,95.141
+France,1974,157.508
+France,1975,162.94
+France,1976,154.428
+France,1977,150.703
+France,1978,165.912
+France,1979,180.052
+France,1980,182.116
+France,1981,191.572
+France,1982,215.271
+France,1983,179.687
+France,1984,172.175
+France,1985,143.123
+France,1986,141.015
+France,1987,128.555
+France,1988,135.41
+France,1989,131.095
+France,1990,128.749
+France,1991,107.266
+France,1992,84.773
+France,1993,85.899
+France,1994,83.09
+France,1995,114.866
+France,1996,84.064
+France,1997,98.304
+France,1998,97.328
+France,1999,0
+France,2000,123.349
+France,2001,125.597
+France,2002,129.659
+France,2003,126.257
+France,2004,120.803
+France,2005,131.37
+France,2006,134.9896
+France,2007,113.30054
+France,2008,105.43127
+France,2009,79.2744
+France,2010,74.76
+France,2011,92.04153
+France,2012,95.89563
+France,2013,102.8229
+France,2014,99.94864
+France,2015,105.09722
+France,2016,104.90672
+France,2017,105.92424
+France,2018,75.877067
+Germany,1950,270.518
+Germany,1951,330.503
+Germany,1952,79.199
+Germany,1953,338.884
+Germany,1954,350.605
+Germany,1955,114.812
+Germany,1956,101.045
+Germany,1957,379.105
+Germany,1958,344.831
+Germany,1959,383.705
+Germany,1960,271.264
+Germany,1961,237.827
+Germany,1962,217.32
+Germany,1963,264.807
+Germany,1964,270.442
+Germany,1965,259.772
+Germany,1966,226.753
+Germany,1967,143.907
+Germany,1968,148.121
+Germany,1969,139.83
+Germany,1970,141.586
+Germany,1971,110.228
+Germany,1972,122.754
+Germany,1973,120.974
+Germany,1974,137.001
+Germany,1975,112.25
+Germany,1976,141.322
+Germany,1977,105.439
+Germany,1978,120.608
+Germany,1979,81.756
+Germany,1980,84.355
+Germany,1981,83.488
+Germany,1982,82.617
+Germany,1983,97.934
+Germany,1984,138.348
+Germany,1985,88.356
+Germany,1986,60.546
+Germany,1987,62.843
+Germany,1988,63.969
+Germany,1989,95.606
+Germany,1990,105.862
+Germany,1991,111.541
+Germany,1992,96.748
+Germany,1993,99.519
+Germany,1994,89.606
+Germany,1995,98.775
+Germany,1996,61.925
+Germany,1997,69.092
+Germany,1998,70.473
+Germany,1999,72.563
+Germany,2000,68.222
+Germany,2001,69.755
+Germany,2002,71.79
+Germany,2003,90.84
+Germany,2004,94.571
+Germany,2005,100.422
+Germany,2006,93.56673
+Germany,2007,60.3061
+Germany,2008,59.3327
+Germany,2009,66.5905
+Germany,2010,70.146
+Germany,2011,67.70735
+Germany,2012,77.99946
+Germany,2013,102.0855
+Germany,2014,88.10745
+Germany,2015,109.7651
+Germany,2016,113.14116
+Germany,2017,92.2006
+Germany,2018,93.449407
+Netherlands,1950,175.346
+Netherlands,1951,195.457
+Netherlands,1952,208.142
+Netherlands,1953,235.482
+Netherlands,1954,220.792
+Netherlands,1955,210.544
+Netherlands,1956,196.443
+Netherlands,1957,226.023
+Netherlands,1958,220.526
+Netherlands,1959,226.308
+Netherlands,1960,232.812
+Netherlands,1961,228.402
+Netherlands,1962,204.777
+Netherlands,1963,245.454
+Netherlands,1964,246.926
+Netherlands,1965,238.656
+Netherlands,1966,215.708
+Netherlands,1967,156.155
+Netherlands,1968,165.886
+Netherlands,1969,179.569
+Netherlands,1970,193.269
+Netherlands,1971,194.694
+Netherlands,1972,182.843
+Netherlands,1973,172.149
+Netherlands,1974,187.237
+Netherlands,1975,179.84
+Netherlands,1976,150.164
+Netherlands,1977,139.75
+Netherlands,1978,124.925
+Netherlands,1979,121.278
+Netherlands,1980,134.969
+Netherlands,1981,151.094
+Netherlands,1982,175.723
+Netherlands,1983,187.859
+Netherlands,1984,158.915
+Netherlands,1985,281.815
+Netherlands,1986,264.575
+Netherlands,1987,276.284
+Netherlands,1988,287.468
+Netherlands,1989,311.072
+Netherlands,1990,247.77
+Netherlands,1991,209.025
+Netherlands,1992,234.442
+Netherlands,1993,235.881
+Netherlands,1994,219.972
+Netherlands,1995,229.748
+Netherlands,1996,132.084
+Netherlands,1997,162.611
+Netherlands,1998,226.863
+Netherlands,1999,216.959
+Netherlands,2000,180.678
+Netherlands,2001,149.953
+Netherlands,2002,167.743
+Netherlands,2003,208.498
+Netherlands,2004,207.595
+Netherlands,2005,193.247
+Netherlands,2006,181.957
+Netherlands,2007,182.355
+Netherlands,2008,115.683
+Netherlands,2009,129.602
+Netherlands,2010,128.51
+Netherlands,2011,143.982
+Netherlands,2012,177.172
+Netherlands,2013,179.152
+Netherlands,2014,194.8347
+Netherlands,2015,199.781
+Netherlands,2016,214.3284
+Netherlands,2017,193.42756
+Netherlands,2018,175.415578
+Norway,1950,648.593
+Norway,1951,617.106
+Norway,1952,611.449
+Norway,1953,611.751
+Norway,1954,650.809
+Norway,1955,725.517
+Norway,1956,783.562
+Norway,1957,449.49
+Norway,1958,216.327
+Norway,1959,276.232
+Norway,1960,222.175
+Norway,1961,138.31
+Norway,1962,166.863
+Norway,1963,294.147
+Norway,1964,438.933
+Norway,1965,940.131
+Norway,1966,1082.605
+Norway,1967,1305.543
+Norway,1968,1217.107
+Norway,1969,999.514
+Norway,1970,697.545
+Norway,1971,593.635
+Norway,1972,599.555
+Norway,1973,649.393
+Norway,1974,693.408
+Norway,1975,806.574
+Norway,1976,646.112
+Norway,1977,494.374
+Norway,1978,493.986
+Norway,1979,546.06
+Norway,1980,488.871
+Norway,1981,312.581
+Norway,1982,446.771
+Norway,1983,447.766
+Norway,1984,489.255
+Norway,1985,497.957
+Norway,1986,546.353
+Norway,1987,721.954
+Norway,1988,671.843
+Norway,1989,736.089
+Norway,1990,605.993
+Norway,1991,656.143
+Norway,1992,741.186
+Norway,1993,730.881
+Norway,1994,743.023
+Norway,1995,876.513
+Norway,1996,605.097
+Norway,1997,756.993
+Norway,1998,758.28
+Norway,1999,694.061
+Norway,2000,582.841
+Norway,2001,627.754
+Norway,2002,682.991
+Norway,2003,565.076
+Norway,2004,552.417
+Norway,2005,511.079
+Norway,2006,503.80037
+Norway,2007,446.66046
+Norway,2008,400.89162
+Norway,2009,465.87641
+Norway,2010,496.30137
+Norway,2011,459.61874
+Norway,2012,318.50423
+Norway,2013,438.87753
+Norway,2014,450.78247
+Norway,2015,443.24696
+Norway,2016,421.70896
+Norway,2017,466.81211
+Norway,2018,507.93625
+Russian Federation,1950,0
+Russian Federation,1951,0
+Russian Federation,1952,0
+Russian Federation,1953,0
+Russian Federation,1954,0
+Russian Federation,1955,2.878
+Russian Federation,1956,28.69
+Russian Federation,1957,37.185
+Russian Federation,1958,34.892
+Russian Federation,1959,41.354
+Russian Federation,1960,65.405
+Russian Federation,1961,71.523
+Russian Federation,1962,108.035
+Russian Federation,1963,84.115
+Russian Federation,1964,144.534
+Russian Federation,1965,63.222
+Russian Federation,1966,156.555
+Russian Federation,1967,107.115
+Russian Federation,1968,124.943
+Russian Federation,1969,325.554
+Russian Federation,1970,482.234
+Russian Federation,1971,202.192
+Russian Federation,1972,157.302
+Russian Federation,1973,229.754
+Russian Federation,1974,218.943
+Russian Federation,1975,262.391
+Russian Federation,1976,206.444
+Russian Federation,1977,63.749
+Russian Federation,1978,41.655
+Russian Federation,1979,2.845
+Russian Federation,1980,0
+Russian Federation,1981,0
+Russian Federation,1982,0
+Russian Federation,1983,0
+Russian Federation,1984,0
+Russian Federation,1985,0
+Russian Federation,1986,0
+Russian Federation,1987,0
+Russian Federation,1988,0
+Russian Federation,1989,0
+Russian Federation,1990,0
+Russian Federation,1991,29.007
+Russian Federation,1992,6.74
+Russian Federation,1993,0
+Russian Federation,1994,38.148
+Russian Federation,1995,0
+Russian Federation,1996,0
+Russian Federation,1997,16.939
+Russian Federation,1998,1.78
+Russian Federation,1999,5.64
+Russian Federation,2000,13.759
+Russian Federation,2001,0.209
+Russian Federation,2002,0
+Russian Federation,2003,0
+Russian Federation,2004,0
+Russian Federation,2005,5.243
+Russian Federation,2006,1.068
+Russian Federation,2007,1.501
+Russian Federation,2008,5.721
+Russian Federation,2009,5.241
+Russian Federation,2010,4.686
+Russian Federation,2011,0.627
+Russian Federation,2012,0.52
+Russian Federation,2013,0.162
+Russian Federation,2014,0.097
+Russian Federation,2015,1.259
+Russian Federation,2016,4.454
+Russian Federation,2017,0.795
+Russian Federation,2018,1.854
+Sweden,1950,129.12
+Sweden,1951,123.975
+Sweden,1952,139.109
+Sweden,1953,127.132
+Sweden,1954,127.566
+Sweden,1955,141.659
+Sweden,1956,138.281
+Sweden,1957,155.983
+Sweden,1958,170.151
+Sweden,1959,199.018
+Sweden,1960,187.927
+Sweden,1961,197.305
+Sweden,1962,219.03
+Sweden,1963,277.166
+Sweden,1964,312.786
+Sweden,1965,304.944
+Sweden,1966,253.279
+Sweden,1967,260.81
+Sweden,1968,218.6
+Sweden,1969,192.468
+Sweden,1970,210.889
+Sweden,1971,156.25
+Sweden,1972,118.402
+Sweden,1973,124.979
+Sweden,1974,112.125
+Sweden,1975,114.884
+Sweden,1976,112.849
+Sweden,1977,97.899
+Sweden,1978,100.917
+Sweden,1979,79.432
+Sweden,1980,88.601
+Sweden,1981,119.474
+Sweden,1982,106.903
+Sweden,1983,110.193
+Sweden,1984,126.347
+Sweden,1985,110.871
+Sweden,1986,113.175
+Sweden,1987,113.5
+Sweden,1988,128.861
+Sweden,1989,118.124
+Sweden,1990,126.851
+Sweden,1991,122.558
+Sweden,1992,154.899
+Sweden,1993,144.319
+Sweden,1994,148.162
+Sweden,1995,142.316
+Sweden,1996,73.204
+Sweden,1997,66.125
+Sweden,1998,85.044
+Sweden,1999,101.475
+Sweden,2000,94.171
+Sweden,2001,122.463
+Sweden,2002,132.474
+Sweden,2003,92.099
+Sweden,2004,97.176
+Sweden,2005,89.205
+Sweden,2006,98.69877
+Sweden,2007,72.1574
+Sweden,2008,63.4706
+Sweden,2009,53.2882
+Sweden,2010,70.1574
+Sweden,2011,65.7401
+Sweden,2012,52.1819
+Sweden,2013,73.2055
+Sweden,2014,64.32
+Sweden,2015,81.9934
+Sweden,2016,65.08617
+Sweden,2017,98.31567
+Sweden,2018,48.3039983
+United Kingdom,1950,275.381
+United Kingdom,1951,342.318
+United Kingdom,1952,385.19
+United Kingdom,1953,398.82
+United Kingdom,1954,349.499
+United Kingdom,1955,278.712
+United Kingdom,1956,322.581
+United Kingdom,1957,318.098
+United Kingdom,1958,309.976
+United Kingdom,1959,313.288
+United Kingdom,1960,279.254
+United Kingdom,1961,269.209
+United Kingdom,1962,252.47
+United Kingdom,1963,321.969
+United Kingdom,1964,338.534
+United Kingdom,1965,390.803
+United Kingdom,1966,430.525
+United Kingdom,1967,375.334
+United Kingdom,1968,380.971
+United Kingdom,1969,355.17
+United Kingdom,1970,392.723
+United Kingdom,1971,453.927
+United Kingdom,1972,451.638
+United Kingdom,1973,465.799
+United Kingdom,1974,444.281
+United Kingdom,1975,387.493
+United Kingdom,1976,480.983
+United Kingdom,1977,475.584
+United Kingdom,1978,478.116
+United Kingdom,1979,372.423
+United Kingdom,1980,378.039
+United Kingdom,1981,408.129
+United Kingdom,1982,436.187
+United Kingdom,1983,416.041
+United Kingdom,1984,394.815
+United Kingdom,1985,451.141
+United Kingdom,1986,448.984
+United Kingdom,1987,443.871
+United Kingdom,1988,398.449
+United Kingdom,1989,378.901
+United Kingdom,1990,332.283
+United Kingdom,1991,381.534
+United Kingdom,1992,381.626
+United Kingdom,1993,393.768
+United Kingdom,1994,405.626
+United Kingdom,1995,400.653
+United Kingdom,1996,352.191
+United Kingdom,1997,371.976
+United Kingdom,1998,345.148
+United Kingdom,1999,322.281
+United Kingdom,2000,324.534
+United Kingdom,2001,294.109
+United Kingdom,2002,295.136
+United Kingdom,2003,269.939
+United Kingdom,2004,289.844
+United Kingdom,2005,252.418
+United Kingdom,2006,268.85053
+United Kingdom,2007,266.9559
+United Kingdom,2008,237.74373
+United Kingdom,2009,247.74905
+United Kingdom,2010,241.7495
+United Kingdom,2011,261.86164
+United Kingdom,2012,286.0027
+United Kingdom,2013,310.01262
+United Kingdom,2014,388.65267
+United Kingdom,2015,370.91904
+United Kingdom,2016,356.02715
+United Kingdom,2017,362.7253
+United Kingdom,2018,323.5702298
+other,1950,39.303
+other,1951,38.436
+other,1952,40.976
+other,1953,45.296
+other,1954,42.295
+other,1955,85.637
+other,1956,82.21
+other,1957,76.494
+other,1958,86.132
+other,1959,104.361
+other,1960,112.226
+other,1961,115.271
+other,1962,97.97
+other,1963,113.466
+other,1964,140.251
+other,1965,146.583
+other,1966,135.844
+other,1967,95.501
+other,1968,105.947
+other,1969,67.302
+other,1970,66.529
+other,1971,80.601
+other,1972,86.758
+other,1973,101.304
+other,1974,119.787
+other,1975,113.564
+other,1976,104.581
+other,1977,50.781
+other,1978,51.101
+other,1979,43.329
+other,1980,38.361
+other,1981,43.297
+other,1982,41.33
+other,1983,40.377
+other,1984,40.132
+other,1985,35.105
+other,1986,29.318
+other,1987,31.244
+other,1988,32.986
+other,1989,31.055
+other,1990,33.293
+other,1991,47.432
+other,1992,44.931
+other,1993,48.139
+other,1994,36.957
+other,1995,34.011
+other,1996,29.666
+other,1997,32.005
+other,1998,23.944
+other,1999,35.699
+other,2000,34.918
+other,2001,40.549
+other,2002,43.116
+other,2003,38.63
+other,2004,37.298
+other,2005,35.52
+other,2006,35.126
+other,2007,34.17736
+other,2008,35.81839
+other,2009,32.73614
+other,2010,33.94773
+other,2011,35.59523
+other,2012,37.36891
+other,2013,34.50789
+other,2014,86.81803
+other,2015,54.46776
+other,2016,48.57767
+other,2017,59.91872
+other,2018,43.37555595

@@ -1,0 +1,25 @@
+Variable,Color,Metric,Value,sum,fraction
+D3C1,GREEN,Number of stocks,28,94,2923648.43548936
+D3C1,GREY,Number of stocks,49,94,5116384.76210638
+D3C1,qual_RED,Number of stocks,0,94,0
+D3C1,RED,Number of stocks,17,94,1775072.26440426
+D3C2,GREEN,Number of stocks,34,94,3550144.52880851
+D3C2,GREY,Number of stocks,49,94,5116384.76210638
+D3C2,qual_RED,Number of stocks,2,94,208832.031106383
+D3C2,RED,Number of stocks,9,94,939744.139978723
+D3C1,GREEN,Proportion of catch 
+(thousand tonnes),4306823.462,9815105.462,4306823.462
+D3C1,GREY,Proportion of catch 
+(thousand tonnes),767918,9815105.462,767918
+D3C1,qual_RED,Proportion of catch 
+(thousand tonnes),0,9815105.462,0
+D3C1,RED,Proportion of catch 
+(thousand tonnes),4740364,9815105.462,4740364
+D3C2,GREEN,Proportion of catch 
+(thousand tonnes),9417427,9815105.462,9417427
+D3C2,GREY,Proportion of catch 
+(thousand tonnes),192508.462,9815105.462,192508.462
+D3C2,qual_RED,Proportion of catch 
+(thousand tonnes),348,9815105.462,348
+D3C2,RED,Proportion of catch 
+(thousand tonnes),204822,9815105.462,204822
