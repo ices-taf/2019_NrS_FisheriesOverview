@@ -309,13 +309,9 @@ dat <- format_annex_table(clean_status, 2019, return_data = TRUE)
 # A. Effort map
 #~~~~~~~~~~~~~~~#
 
- "Beam"           "Demersal seine" "Dredge"        "Midwater"       "NA"             "Other"         "Otter"          "Static" 
-
-
-
 gears <- c("Static", "Midwater", "Otter", "Demersal seine", "Dredge", "Beam")
 
-effort2 <-
+effort <-
     effort %>%
       dplyr::filter(fishing_category_FO %in% gears) %>%
       dplyr::mutate(
@@ -329,7 +325,7 @@ effort2 <-
             Beam = "Beam trawls")
         )
 
-plot_effort_map(effort2, ecoregion) + 
+plot_effort_map(effort, ecoregion) + 
   ggtitle("Average MW Fishing hours 2015-2018")
 
 ggplot2::ggsave("2019_NrS_FO_Figure9.png", path = "report", width = 170, height = 200, units = "mm", dpi = 300)
