@@ -47,4 +47,4 @@ clean_sag <- format_sag(sag_sum, sag_refpts, 2019, "Greater North Sea")
 clean_status <- format_sag_status(sag_status, 2019, "Greater North Sea")
 
 write.taf(clean_sag, dir = "data")
-write.taf(clean_status, dir = "data")
+write.taf(clean_status, dir = "data", quote = TRUE)
