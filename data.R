@@ -20,8 +20,7 @@ catch_dat <-
   format_catches(2019, "Greater North Sea", 
     hist, official, prelim, species_list, sid)
 
-#write.taf(catch_dat, dir = "data", quote = TRUE)
-write.csv(catch_dat, file = "data/catch_dat.csv", quote = TRUE, row.names = FALSE, fileEncoding = "UTF-8")
+write.taf(catch_dat, dir = "data", quote = TRUE)
 
 if (FALSE) {
 
