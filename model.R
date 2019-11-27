@@ -11,13 +11,18 @@ mkdir("model")
 
 clean_sag <- read.taf("data/clean_sag.csv")
 trends <- stock_trends(clean_sag)
+guild <- guild_trends(clean_sag)
 
 write.taf(trends, dir = "model")
+write.taf(guild, dir = "model")
 
 #B.Trends and current catches, landings and discards
 
 catch_trends <- CLD_trends(clean_sag)
 catch_current <- stockstatus_CLD_current(clean_sag)
+catch_current$Status[which(catch_current$StockKeyLabel == "dab.27.3a4")] <- "GREEN"
+catch_current$Status[which(catch_current$StockKeyLabel == "usk.27.3a45b6a7-912b")] <- "GREEN"
+
 
 write.taf(catch_trends, dir = "model")
 write.taf(catch_current, dir = "model")
