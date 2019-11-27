@@ -1,4 +1,4 @@
-# All plots and data outputs are produced here 
+# All plots and data outputs are produced here
 
 library(icesTAF)
 taf.library(icesFO)
@@ -14,6 +14,8 @@ mkdir("report")
 
 catch_dat <- read.taf("data/catch_dat.csv")
 
+sid <- read.taf("bootstrap/data/ICES_StockInformation/sid.csv")
+
 #frmt_effort <- read.taf("data/frmt_effort.csv")
 #frmt_landings <- read.taf("data/frmt_landings.csv")
 trends <- read.taf("model/trends.csv")
@@ -22,13 +24,13 @@ catch_trends <- read.taf("model/catch_trends.csv")
 
 clean_status <- read.taf("data/clean_status.csv")
 
-ices_areas <- 
-  sf::st_read("bootstrap/data/ICES_areas/areas.csv", 
+ices_areas <-
+  sf::st_read("bootstrap/data/ICES_areas/areas.csv",
               options = "GEOM_POSSIBLE_NAMES=WKT", crs = 4326)
 ices_areas <- dplyr::select(ices_areas, -WKT)
 
-ecoregion <- 
-  sf::st_read("bootstrap/data/ICES_ecoregions/ecoregion.csv", 
+ecoregion <-
+  sf::st_read("bootstrap/data/ICES_ecoregions/ecoregion.csv",
               options = "GEOM_POSSIBLE_NAMES=WKT", crs = 4326)
 ecoregion <- dplyr::select(ecoregion, -WKT)
 
@@ -336,10 +338,11 @@ dat <- plot_GES_pies(clean_status, catch_current, "November", "2018", return_dat
 write.taf(dat, file= "2019_NrS_FO_Figure11.csv", dir = "report")
 
 #~~~~~~~~~~~~~~~#
-#F. ANNEX TABLE 
+#F. ANNEX TABLE
 #~~~~~~~~~~~~~~~#
 
 dat <- format_annex_table(clean_status, 2019)
+
 
 write.taf(dat, file = "2019_NrS_FO_annex_table.csv", dir = "report")
 
@@ -362,7 +365,7 @@ effort <-
     effort %>%
       dplyr::filter(fishing_category_FO %in% gears) %>%
       dplyr::mutate(
-        fishing_category_FO = 
+        fishing_category_FO =
           dplyr::recode(fishing_category_FO,
             Static = "Static gears",
             Midwater = "Pelagic trawls and seines",
@@ -372,7 +375,7 @@ effort <-
             Beam = "Beam trawls")
         )
 
-plot_effort_map(effort, ecoregion) + 
+plot_effort_map(effort, ecoregion) +
   ggtitle("Average MW Fishing hours 2015-2018")
 
 ggplot2::ggsave("2019_NrS_FO_Figure9.png", path = "report", width = 170, height = 200, units = "mm", dpi = 300)
@@ -381,12 +384,12 @@ ggplot2::ggsave("2019_NrS_FO_Figure9.png", path = "report", width = 170, height 
 # B. Swept area map
 #~~~~~~~~~~~~~~~#
 
-plot_sar_map(sar, ecoregion, what = "surface") + 
+plot_sar_map(sar, ecoregion, what = "surface") +
   ggtitle("Average surface swept area ratio 2015-2018")
 
 ggplot2::ggsave("2019_NrS_FO_Figure17a.png", path = "report", width = 170, height = 200, units = "mm", dpi = 300)
 
-plot_sar_map(sar, ecoregion, what = "subsurface") + 
+plot_sar_map(sar, ecoregion, what = "subsurface") +
   ggtitle("Average subsurface swept area ratio 2015-2018")
 
 ggplot2::ggsave("2019_NrS_FO_Figure17b.png", path = "report", width = 170, height = 200, units = "mm", dpi = 300)
