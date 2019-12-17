@@ -1,142 +1,280 @@
 type_var,YEAR,typeTotal
-atlantic herring,1950,1158.74
-atlantic herring,1951,1266.887
-atlantic herring,1952,999.05
-atlantic herring,1953,1260.02
-atlantic herring,1954,1396.419
-atlantic herring,1955,1150.142
-atlantic herring,1956,1254.06
-atlantic herring,1957,1169.713
-atlantic herring,1958,977.889
-atlantic herring,1959,1042.708
-atlantic herring,1960,882.353
-atlantic herring,1961,856.351
-atlantic herring,1962,836.605
-atlantic herring,1963,1022.558
-atlantic herring,1964,1281.644
-atlantic herring,1965,1536.938
-atlantic herring,1966,1221.938
-atlantic herring,1967,1069.23
-atlantic herring,1968,1141.13
-atlantic herring,1969,838.747
-atlantic herring,1970,835.732
-atlantic herring,1971,735.134
-atlantic herring,1972,711.067
-atlantic herring,1973,738.442
-atlantic herring,1974,430.581
-atlantic herring,1975,436.445
-atlantic herring,1976,263.201
-atlantic herring,1977,157.582
-atlantic herring,1978,109.656
-atlantic herring,1979,80.238
-atlantic herring,1980,95.617
-atlantic herring,1981,158.684
-atlantic herring,1982,166.683
-atlantic herring,1983,332.243
-atlantic herring,1984,395.69
-atlantic herring,1985,593.882
-atlantic herring,1986,619.152
-atlantic herring,1987,648.433
-atlantic herring,1988,688.18
-atlantic herring,1989,655.676
-atlantic herring,1990,565.492
-atlantic herring,1991,531.98
-atlantic herring,1992,573.665
-atlantic herring,1993,561.657
-atlantic herring,1994,552.629
-atlantic herring,1995,584.911
-atlantic herring,1996,268.042
-atlantic herring,1997,282.096
-atlantic herring,1998,348.367
-atlantic herring,1999,335.134
-atlantic herring,2000,358.253
-atlantic herring,2001,349.675
-atlantic herring,2002,341.553
-atlantic herring,2003,476.122
-atlantic herring,2004,521.721
-atlantic herring,2005,631.954
-atlantic herring,2006,537.5568
-atlantic herring,2007,401.00981
-atlantic herring,2008,249.64761
-atlantic herring,2009,235.29113
-atlantic herring,2010,244.99202
-atlantic herring,2011,233.65497
-atlantic herring,2012,442.8861
-atlantic herring,2013,523.75886
-atlantic herring,2014,516.37875
-atlantic herring,2015,524.64463
-atlantic herring,2016,589.73452
-atlantic herring,2017,519.79153
-atlantic herring,2018,605.130327
-atlantic mackerel,1950,57.055
-atlantic mackerel,1951,72.77
-atlantic mackerel,1952,66.54
-atlantic mackerel,1953,64.898
-atlantic mackerel,1954,66.582
-atlantic mackerel,1955,78.723
-atlantic mackerel,1956,64.36
-atlantic mackerel,1957,96.444
-atlantic mackerel,1958,86.999
-atlantic mackerel,1959,93.013
-atlantic mackerel,1960,90.994
-atlantic mackerel,1961,104.384
-atlantic mackerel,1962,83.095
-atlantic mackerel,1963,74.845
-atlantic mackerel,1964,116.291
-atlantic mackerel,1965,210.959
-atlantic mackerel,1966,531.768
-atlantic mackerel,1967,930.883
-atlantic mackerel,1968,821.762
-atlantic mackerel,1969,739.183
-atlantic mackerel,1970,322.451
-atlantic mackerel,1971,243.674
-atlantic mackerel,1972,188.599
-atlantic mackerel,1973,326.519
-atlantic mackerel,1974,304.523
-atlantic mackerel,1975,269.975
-atlantic mackerel,1976,311.815
-atlantic mackerel,1977,265.044
-atlantic mackerel,1978,157.667
-atlantic mackerel,1979,160.87
-atlantic mackerel,1980,91.799
-atlantic mackerel,1981,78.088
-atlantic mackerel,1982,47.46
-atlantic mackerel,1983,45.646
-atlantic mackerel,1984,44.889
-atlantic mackerel,1985,58.977
-atlantic mackerel,1986,87.584
-atlantic mackerel,1987,133.278
-atlantic mackerel,1988,97.19
-atlantic mackerel,1989,175.359
-atlantic mackerel,1990,159.46
-atlantic mackerel,1991,216.29
-atlantic mackerel,1992,221.899
-atlantic mackerel,1993,230.789
-atlantic mackerel,1994,231.732
-atlantic mackerel,1995,205.394
-atlantic mackerel,1996,150.972
-atlantic mackerel,1997,158.032
-atlantic mackerel,1998,172.437
-atlantic mackerel,1999,195.264
-atlantic mackerel,2000,257.18
-atlantic mackerel,2001,291.915
-atlantic mackerel,2002,329.135
-atlantic mackerel,2003,282.223
-atlantic mackerel,2004,280.844
-atlantic mackerel,2005,186.034
-atlantic mackerel,2006,202.8144
-atlantic mackerel,2007,249.6017
-atlantic mackerel,2008,216.35171
-atlantic mackerel,2009,237.67312
-atlantic mackerel,2010,251.574
-atlantic mackerel,2011,310.65783
-atlantic mackerel,2012,220.71074
-atlantic mackerel,2013,268.97322
-atlantic mackerel,2014,392.06911
-atlantic mackerel,2015,305.41159
-atlantic mackerel,2016,257.679139
-atlantic mackerel,2017,277.87937
-atlantic mackerel,2018,345.9965208
+cod,1950,82.909
+cod,1951,74.982
+cod,1952,91.144
+cod,1953,94.962
+cod,1954,95.974
+cod,1955,98.867
+cod,1956,97.045
+cod,1957,116.542
+cod,1958,128.701
+cod,1959,128.199
+cod,1960,123.696
+cod,1961,128.163
+cod,1962,114.983
+cod,1963,129.636
+cod,1964,136.955
+cod,1965,194.378
+cod,1966,235.739
+cod,1967,266.868
+cod,1968,301.987
+cod,1969,212.501
+cod,1970,238.99
+cod,1971,339.616
+cod,1972,368.72
+cod,1973,257.408
+cod,1974,241.258
+cod,1975,220.284
+cod,1976,252.804
+cod,1977,232.145
+cod,1978,314.146
+cod,1979,268.49
+cod,1980,291.28
+cod,1981,338.489
+cod,1982,301.985
+cod,1983,276.863
+cod,1984,233.095
+cod,1985,221.947
+cod,1986,196.209
+cod,1987,208.574
+cod,1988,174.904
+cod,1989,139.291
+cod,1990,123.748
+cod,1991,108.825
+cod,1992,122.534
+cod,1993,120.083
+cod,1994,112.223
+cod,1995,141.736
+cod,1996,132.149
+cod,1997,128.682
+cod,1998,145.152
+cod,1999,96.568
+cod,2000,79.151
+cod,2001,55.526
+cod,2002,55.706
+cod,2003,34.664
+cod,2004,30.629
+cod,2005,29.049
+cod,2006,29.414
+cod,2007,26.5415
+cod,2008,28.11191
+cod,2009,33.62
+cod,2010,37.83372
+cod,2011,33.36566
+cod,2012,33.18346
+cod,2013,31.60529
+cod,2014,35.62906
+cod,2015,38.07902
+cod,2016,40.02283
+cod,2017,39.87484
+cod,2018,36.16884988
+haddock,1950,58.638
+haddock,1951,58.075
+haddock,1952,53.476
+haddock,1953,61.787
+haddock,1954,71.518
+haddock,1955,88.893
+haddock,1956,95.822
+haddock,1957,106.7
+haddock,1958,97.502
+haddock,1959,80.66
+haddock,1960,68.119
+haddock,1961,69.122
+haddock,1962,52.809
+haddock,1963,64.536
+haddock,1964,199.437
+haddock,1965,223.339
+haddock,1966,269.9
+haddock,1967,167.903
+haddock,1968,140.051
+haddock,1969,640.251
+haddock,1970,672.775
+haddock,1971,260.469
+haddock,1972,216.545
+haddock,1973,199.17
+haddock,1974,198.069
+haddock,1975,180.304
+haddock,1976,213.665
+haddock,1977,160.446
+haddock,1978,96.074
+haddock,1979,91.389
+haddock,1980,112.289
+haddock,1981,143.462
+haddock,1982,186.533
+haddock,1983,174.815
+haddock,1984,142.616
+haddock,1985,176.639
+haddock,1986,171.259
+haddock,1987,113.127
+haddock,1988,108.06
+haddock,1989,68.319
+haddock,1990,47.302
+haddock,1991,46.977
+haddock,1992,55.472
+haddock,1993,82.221
+haddock,1994,88.834
+haddock,1995,77.684
+haddock,1996,78.122
+haddock,1997,76.65
+haddock,1998,76.636
+haddock,1999,65.246
+haddock,2000,48.19
+haddock,2001,41.93
+haddock,2002,58.672
+haddock,2003,44.447
+haddock,2004,48.832
+haddock,2005,31.901
+haddock,2006,38.02735
+haddock,2007,32.42323
+haddock,2008,32.02992
+haddock,2009,32.98873
+haddock,2010,29.39344
+haddock,2011,28.54915
+haddock,2012,33.00094
+haddock,2013,39.18616
+haddock,2014,37.10905
+haddock,2015,31.71504
+haddock,2016,31.56632
+haddock,2017,31.19494
+haddock,2018,29.2392856
+herring,1950,1158.74
+herring,1951,1266.887
+herring,1952,999.05
+herring,1953,1260.02
+herring,1954,1396.419
+herring,1955,1150.142
+herring,1956,1254.06
+herring,1957,1169.713
+herring,1958,977.889
+herring,1959,1042.708
+herring,1960,882.353
+herring,1961,856.351
+herring,1962,836.605
+herring,1963,1022.558
+herring,1964,1281.644
+herring,1965,1536.938
+herring,1966,1221.938
+herring,1967,1069.23
+herring,1968,1141.13
+herring,1969,838.747
+herring,1970,835.732
+herring,1971,735.134
+herring,1972,711.067
+herring,1973,738.442
+herring,1974,430.581
+herring,1975,436.445
+herring,1976,263.201
+herring,1977,157.582
+herring,1978,109.656
+herring,1979,80.238
+herring,1980,95.617
+herring,1981,158.684
+herring,1982,166.683
+herring,1983,332.243
+herring,1984,395.69
+herring,1985,593.882
+herring,1986,619.152
+herring,1987,648.433
+herring,1988,688.18
+herring,1989,655.676
+herring,1990,565.492
+herring,1991,531.98
+herring,1992,573.665
+herring,1993,561.657
+herring,1994,552.629
+herring,1995,584.911
+herring,1996,268.042
+herring,1997,282.096
+herring,1998,348.367
+herring,1999,335.134
+herring,2000,358.253
+herring,2001,349.675
+herring,2002,341.553
+herring,2003,476.122
+herring,2004,521.721
+herring,2005,631.954
+herring,2006,537.5568
+herring,2007,401.00981
+herring,2008,249.64761
+herring,2009,235.29113
+herring,2010,244.99202
+herring,2011,233.65497
+herring,2012,442.8861
+herring,2013,523.75886
+herring,2014,516.37875
+herring,2015,524.64463
+herring,2016,589.73452
+herring,2017,519.79153
+herring,2018,605.130327
+mackerel,1950,57.055
+mackerel,1951,72.77
+mackerel,1952,66.54
+mackerel,1953,64.898
+mackerel,1954,66.582
+mackerel,1955,78.723
+mackerel,1956,64.36
+mackerel,1957,96.444
+mackerel,1958,86.999
+mackerel,1959,93.013
+mackerel,1960,90.994
+mackerel,1961,104.384
+mackerel,1962,83.095
+mackerel,1963,74.845
+mackerel,1964,116.291
+mackerel,1965,210.959
+mackerel,1966,531.768
+mackerel,1967,930.883
+mackerel,1968,821.762
+mackerel,1969,739.183
+mackerel,1970,322.451
+mackerel,1971,243.674
+mackerel,1972,188.599
+mackerel,1973,326.519
+mackerel,1974,304.523
+mackerel,1975,269.975
+mackerel,1976,311.815
+mackerel,1977,265.044
+mackerel,1978,157.667
+mackerel,1979,160.87
+mackerel,1980,91.799
+mackerel,1981,78.088
+mackerel,1982,47.46
+mackerel,1983,45.646
+mackerel,1984,44.889
+mackerel,1985,58.977
+mackerel,1986,87.584
+mackerel,1987,133.278
+mackerel,1988,97.19
+mackerel,1989,175.359
+mackerel,1990,159.46
+mackerel,1991,216.29
+mackerel,1992,221.899
+mackerel,1993,230.789
+mackerel,1994,231.732
+mackerel,1995,205.394
+mackerel,1996,150.972
+mackerel,1997,158.032
+mackerel,1998,172.437
+mackerel,1999,195.264
+mackerel,2000,257.18
+mackerel,2001,291.915
+mackerel,2002,329.135
+mackerel,2003,282.223
+mackerel,2004,280.844
+mackerel,2005,186.034
+mackerel,2006,202.8144
+mackerel,2007,249.6017
+mackerel,2008,216.35171
+mackerel,2009,237.67312
+mackerel,2010,251.574
+mackerel,2011,310.65783
+mackerel,2012,220.71074
+mackerel,2013,268.97322
+mackerel,2014,392.06911
+mackerel,2015,305.41159
+mackerel,2016,257.679139
+mackerel,2017,277.87937
+mackerel,2018,345.9965208
 Norway pout,1950,0
 Norway pout,1951,0
 Norway pout,1952,0
@@ -206,6 +344,144 @@ Norway pout,2015,63.43368
 Norway pout,2016,62.78104
 Norway pout,2017,33.84831
 Norway pout,2018,35.8991907
+plaice,1950,72.578
+plaice,1951,73.868
+plaice,1952,80.011
+plaice,1953,84.743
+plaice,1954,72.78
+plaice,1955,69.718
+plaice,1956,69.982
+plaice,1957,74.469
+plaice,1958,78.109
+plaice,1959,91.918
+plaice,1960,98.014
+plaice,1961,102.745
+plaice,1962,107.619
+plaice,1963,125.448
+plaice,1964,132.607
+plaice,1965,110
+plaice,1966,109.217
+plaice,1967,115.101
+plaice,1968,125.774
+plaice,1969,135.075
+plaice,1970,144.376
+plaice,1971,133.233
+plaice,1972,142.972
+plaice,1973,144.146
+plaice,1974,129.616
+plaice,1975,126.501
+plaice,1976,134.397
+plaice,1977,146.236
+plaice,1978,125.828
+plaice,1979,134.093
+plaice,1980,121.673
+plaice,1981,114.298
+plaice,1982,129.479
+plaice,1983,118.816
+plaice,1984,133.566
+plaice,1985,170.09
+plaice,1986,151.265
+plaice,1987,156.564
+plaice,1988,162.268
+plaice,1989,167.233
+plaice,1990,176.708
+plaice,1991,160.162
+plaice,1992,141.536
+plaice,1993,131.455
+plaice,1994,126.646
+plaice,1995,111.745
+plaice,1996,95.148
+plaice,1997,97.091
+plaice,1998,83.626
+plaice,1999,88.761
+plaice,2000,96.195
+plaice,2001,96.2
+plaice,2002,83.896
+plaice,2003,79.165
+plaice,2004,74.466
+plaice,2005,63.205
+plaice,2006,68.92041
+plaice,2007,61.73641
+plaice,2008,60.01172
+plaice,2009,62.57751
+plaice,2010,72.77863
+plaice,2011,78.25413
+plaice,2012,82.82563
+plaice,2013,90.09301
+plaice,2014,82.40962
+plaice,2015,87.97757
+plaice,2016,94.42504
+plaice,2017,80.87688
+plaice,2018,54.5135189
+saithe,1950,18.313
+saithe,1951,21.976
+saithe,1952,22.976
+saithe,1953,22.82
+saithe,1954,35.201
+saithe,1955,44.555
+saithe,1956,50.667
+saithe,1957,55.373
+saithe,1958,50.282
+saithe,1959,51.232
+saithe,1960,31.5
+saithe,1961,33.325
+saithe,1962,24.414
+saithe,1963,30.178
+saithe,1964,58.159
+saithe,1965,73.16
+saithe,1966,93.772
+saithe,1967,77.396
+saithe,1968,103.187
+saithe,1969,110.436
+saithe,1970,220.179
+saithe,1971,248.096
+saithe,1972,236.468
+saithe,1973,219.254
+saithe,1974,270.509
+saithe,1975,268.2
+saithe,1976,306.854
+saithe,1977,190.447
+saithe,1978,139.595
+saithe,1979,114.527
+saithe,1980,123.083
+saithe,1981,125.67
+saithe,1982,159.078
+saithe,1983,159.323
+saithe,1984,182.102
+saithe,1985,193.912
+saithe,1986,166.787
+saithe,1987,153.83
+saithe,1988,112.732
+saithe,1989,92.205
+saithe,1990,84.881
+saithe,1991,93.551
+saithe,1992,92.168
+saithe,1993,99.295
+saithe,1994,90.344
+saithe,1995,96.889
+saithe,1996,96.123
+saithe,1997,86.444
+saithe,1998,88.156
+saithe,1999,83.622
+saithe,2000,85.962
+saithe,2001,88.548
+saithe,2002,114.906
+saithe,2003,107.468
+saithe,2004,103.611
+saithe,2005,111.971
+saithe,2006,113.35115
+saithe,2007,91.42454
+saithe,2008,115.42116
+saithe,2009,103.93214
+saithe,2010,86.52433
+saithe,2011,86.24316
+saithe,2012,64.24796
+saithe,2013,71.50973
+saithe,2014,68.53901
+saithe,2015,69.67782
+saithe,2016,62.65877
+saithe,2017,83.59501
+saithe,2018,77.78022446
 sandeel,1950,0
 sandeel,1951,0
 sandeel,1952,0
@@ -344,72 +620,141 @@ sprat,2015,303.85186
 sprat,2016,248.65306
 sprat,2017,127.05364
 sprat,2018,186.2054715
-other,1950,557.638
-other,1951,681.01
-other,1952,694.2
-other,1953,754.784
-other,1954,616.076
-other,1955,726.213
-other,1956,778.966
-other,1957,886.995
-other,1958,888.814
-other,1959,1017.868
-other,1960,704.809
-other,1961,769.632
-other,1962,709.786
-other,1963,857.881
-other,1964,1071.905
-other,1965,1170.284
-other,1966,1230.064
-other,1967,1045.096
-other,1968,1166.581
-other,1969,1698.004
-other,1970,1838.687
-other,1971,1454.896
-other,1972,1415.17
-other,1973,1330.696
-other,1974,1455.284
-other,1975,1371.576
-other,1976,1598.785
-other,1977,1262.047
-other,1978,1303.446
-other,1979,1246.823
-other,1980,1234.291
-other,1981,1328.756
-other,1982,1429.577
-other,1983,1367.787
-other,1984,1341.4
-other,1985,1357.475
-other,1986,1196.951
-other,1987,1232.186
-other,1988,1297.116
-other,1989,1170.001
-other,1990,1110.329
-other,1991,1101.268
-other,1992,1144.653
-other,1993,1129.634
-other,1994,1082.47
-other,1995,1146.651
-other,1996,928.062
-other,1997,991.825
-other,1998,991.19
-other,1999,961.178
-other,2000,913.085
-other,2001,840.856
-other,2002,909.98
-other,2003,887.547
-other,2004,882.895
-other,2005,786.274
-other,2006,765.23924
-other,2007,669.18621
-other,2008,626.26283
-other,2009,668.48761
-other,2010,573.71117
-other,2011,563.74697
-other,2012,530.70144
-other,2013,562.84774
-other,2014,595.76576
-other,2015,618.826969
-other,2016,646.004567
-other,2017,642.223842
-other,2018,387.31977088
+whiting,1950,48.505
+whiting,1951,76.154
+whiting,1952,76.992
+whiting,1953,65.169
+whiting,1954,77.531
+whiting,1955,85.189
+whiting,1956,85.48
+whiting,1957,99.016
+whiting,1958,90.24
+whiting,1959,111.677
+whiting,1960,66.292
+whiting,1961,117.67
+whiting,1962,86.425
+whiting,1963,117.301
+whiting,1964,112.947
+whiting,1965,125.201
+whiting,1966,177.879
+whiting,1967,119.631
+whiting,1968,172.916
+whiting,1969,231.283
+whiting,1970,193.816
+whiting,1971,126.417
+whiting,1972,123.498
+whiting,1973,163.738
+whiting,1974,224.494
+whiting,1975,166.217
+whiting,1976,216.821
+whiting,1977,147.128
+whiting,1978,159.317
+whiting,1979,164.093
+whiting,1980,139.35
+whiting,1981,128.776
+whiting,1982,121.384
+whiting,1983,117.125
+whiting,1984,120.016
+whiting,1985,83.349
+whiting,1986,72.666
+whiting,1987,73.277
+whiting,1988,75.052
+whiting,1989,42.014
+whiting,1990,42.931
+whiting,1991,48.436
+whiting,1992,54.546
+whiting,1993,53.803
+whiting,1994,49.94
+whiting,1995,47.492
+whiting,1996,40.43
+whiting,1997,36.502
+whiting,1998,28.835
+whiting,1999,22.462
+whiting,2000,30.74
+whiting,2001,25.662
+whiting,2002,21.221
+whiting,2003,18.447
+whiting,2004,14.96
+whiting,2005,13.431
+whiting,2006,19.5643
+whiting,2007,19.81692
+whiting,2008,17.762
+whiting,2009,19.0058
+whiting,2010,17.90427
+whiting,2011,18.08635
+whiting,2012,16.49273
+whiting,2013,17.70343
+whiting,2014,17.11253
+whiting,2015,20.29526
+whiting,2016,21.63748
+whiting,2017,18.85767
+whiting,2018,19.0170548
+other,1950,276.695
+other,1951,375.955
+other,1952,369.601
+other,1953,425.303
+other,1954,263.072
+other,1955,338.991
+other,1956,379.97
+other,1957,434.895
+other,1958,443.98
+other,1959,554.182
+other,1960,317.188
+other,1961,318.607
+other,1962,323.536
+other,1963,390.782
+other,1964,431.8
+other,1965,444.206
+other,1966,343.557
+other,1967,298.197
+other,1968,322.666
+other,1969,368.458
+other,1970,368.551
+other,1971,347.065
+other,1972,326.967
+other,1973,346.98
+other,1974,391.338
+other,1975,410.07
+other,1976,474.244
+other,1977,385.645
+other,1978,468.486
+other,1979,474.231
+other,1980,446.616
+other,1981,478.061
+other,1982,531.118
+other,1983,520.845
+other,1984,530.005
+other,1985,511.538
+other,1986,438.765
+other,1987,526.814
+other,1988,664.1
+other,1989,660.939
+other,1990,634.759
+other,1991,643.317
+other,1992,678.397
+other,1993,642.777
+other,1994,614.483
+other,1995,671.105
+other,1996,486.09
+other,1997,566.456
+other,1998,568.785
+other,1999,604.519
+other,2000,572.847
+other,2001,532.99
+other,2002,575.579
+other,2003,603.356
+other,2004,610.397
+other,2005,536.717
+other,2006,495.96203
+other,2007,437.24361
+other,2008,372.92612
+other,2009,416.36343
+other,2010,329.27678
+other,2011,319.24852
+other,2012,300.95072
+other,2013,312.75012
+other,2014,354.96649
+other,2015,371.082259
+other,2016,395.694127
+other,2017,387.824502
+other,2018,170.60083724
