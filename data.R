@@ -23,27 +23,15 @@ catch_dat <-
 #write.taf(catch_dat, dir = "data", quote = TRUE)
 write.csv(catch_dat, file = "data/catch_dat.csv", quote = TRUE, row.names = FALSE, fileEncoding = "UTF-8")
 
-if (FALSE) {
-
-  # 2: STECF effort and landings
-
-  effort <- read.taf("bootstrap/data/STECF_effort.csv", check.names = TRUE)
-
-  landings <- read.taf("bootstrap/initial/data/STECF_landings.csv", check.names = TRUE)
-
-  frmt_effort <- format_stecf_effort(effort)
-  frmt_landings <- format_stecf_landings(landings)
-
-  write.taf(frmt_effort, dir = "data", quote = TRUE)
-  write.taf(frmt_landings, dir = "data")
-
-}
 
 # 3: SAG
 sag_sum <- read.taf("bootstrap/data/SAG_data/SAG_summary.csv")
 sag_refpts <- read.taf("bootstrap/data/SAG_data/SAG_refpts.csv")
 sag_status <- read.taf("bootstrap/data/SAG_data/SAG_status.csv")
 
+#Trying to solve issues with weird wit
+out <- sag_sum %>% filter(fishstock == "wit.27.3a47d",Year == 2019)
+sag_sum <- anti_join(sag_sum, out)
 clean_sag <- format_sag(sag_sum, sag_refpts, 2019, "Greater North Sea")
 clean_status <- format_sag_status(sag_status, 2019, "Greater North Sea")
 
