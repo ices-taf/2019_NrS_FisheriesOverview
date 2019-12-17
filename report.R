@@ -168,7 +168,7 @@ dat <- unique(dat)
 dat <- dat %>% filter(StockKeyLabel != "MEAN")
 dat2 <- sid %>% select(c(StockKeyLabel, StockKeyDescription))
 dat <- left_join(dat,dat2)
-write.taf(dat, file ="2019_NrS_EO_SpeciesGuild_list.csv", dir = "report" )
+write.taf(dat, file ="2019_NrS_EO_SpeciesGuild_list.csv", dir = "report", quote = TRUE)
 
 
 #~~~~~~~~~~~~~~~#
@@ -375,6 +375,15 @@ effort <-
             Beam = "Beam trawls")
         )
 
+# write layer
+write_layer <- function(dat, fname) {
+  sf::write_sf(dat, paste0("report/", fname, ".shp"))
+  files <- dir("report", pattern = fname, full = TRUE)
+  zip(paste0("report/", fname, ".zip"), files, extras = "-j")
+  file.remove(files)
+}
+write_layer(effort, "2019_NrS_FO_Figure9")
+
 plot_effort_map(effort, ecoregion) +
   ggtitle("Average MW Fishing hours 2015-2018")
 
@@ -383,6 +392,9 @@ ggplot2::ggsave("2019_NrS_FO_Figure9.png", path = "report", width = 170, height 
 #~~~~~~~~~~~~~~~#
 # B. Swept area map
 #~~~~~~~~~~~~~~~#
+
+# write layer
+write_layer(sar, "2019_BtS_FO_Figure17")
 
 plot_sar_map(sar, ecoregion, what = "surface") +
   ggtitle("Average surface swept area ratio 2015-2018")
